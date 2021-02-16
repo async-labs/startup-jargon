@@ -13,6 +13,9 @@
 - runway, burn rate --> our business is not profitable yet
 - disruptive technology --> our product solve problem X for our customers. X is a big problem so customers pay us to solve it.
 
+---
+
+- user engagement === user addiction https://news.ycombinator.com/item?id=26153331
 
 
 **This is work in progress. Contributions are welcome.**
